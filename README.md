@@ -1,4 +1,4 @@
-# student-grade-checker-javaa# Student Management System (Java)
+# Student Management System (Java)
 
 ## 📌 Overview
 
